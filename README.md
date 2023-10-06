@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Software Developer who is decoding the Challenges,Crafting the Solutions.</h3>
+<h3 align="center">A passionate Software Developer who is decoding the challenges, & crafting the solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak9654ak&label=Profile%20views&color=0e75b6&style=flat" alt="ak9654ak" /> </p>
 
