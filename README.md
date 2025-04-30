@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **ExpressJS.**
 
-- 💬 Ask me about **Data Strunctures and Frontend**
+- 💬 Ask me about **Data Structures and Frontend**
 
 - 📫 How to reach me **abhishekkumar122001@gmail.com**
 
